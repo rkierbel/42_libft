@@ -7,11 +7,6 @@ The main challenge is to perfectly replicate the behaviour of the libc functions
 - preventing memory leaks of all kind;
 - ensuring sound error management.
 
-What I took from this project :
-- rigor++++
-- patience++
-- algorithmics++
-
-Peer-to-peer evaluation, on which is based the cursus at 42, has proven to be already much more helpful than traditional Belgian university solo learning style (you need to be evaluated by three students to validate one project. You start your cursus with 5 evaluation points. You spend a point to be evaluated once, you win one point when you conduct an evaluation yourself).
+Peer-to-peer evaluation, on which is based the cursus at 42, has proven to be already extremely helpful and insightful.
 
 Failure is (the main) part of the learning process.
